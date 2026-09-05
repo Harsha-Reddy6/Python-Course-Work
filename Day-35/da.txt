@@ -1,0 +1,13 @@
+Data Analysis:
+-------------
+=> Data Analysis is the process of examining data to find useful information, patterns, and insights for better decision-making.
+Types of Data Analysis:
+----------------------
+Descriptive Analysis – Tells what happened.
+Example: Sales increased by 20%.
+Diagnostic Analysis – Tells why it happened.
+Example: Sales increased because of discounts.
+Predictive Analysis – Tells what will happen.
+Example: Sales may increase next month.
+Prescriptive Analysis – Tells what should be done.
+Example: Increase production to meet demand.
